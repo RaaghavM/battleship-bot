@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Plebe
+comment1.params=numWinsNeeded
+comment1.target=void\ seriesStarted(int)
+comment2.params=
+comment2.target=int[][]\ placeShips()
+comment3.params=
+comment3.target=Location\ getTarget()
+comment4.params=
+comment4.target=void\ targetMissed()
+comment5.params=shipSunk
+comment5.target=void\ targetHit(int)
+comment6.params=row\ col
+comment6.target=void\ opponentShot(int,\ int)
+comment7.params=outcome\ opponentShips
+comment7.target=void\ roundEnded(int,\ int[][])
+comment8.params=numRoundsWon\ numRoundsLost\ numRoundsTied
+comment8.target=void\ seriesEnded(int,\ int,\ int)
+numComments=9
